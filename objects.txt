@@ -1,0 +1,9 @@
+chair 0 "Act like you know me but you never will"
+ninja -54 "I'll tell you in Spanish so that you won't get it"
+fruit 43
+shoe 0
+pencil 0
+candy 87
+soda 32
+meth -44
+dirty -99

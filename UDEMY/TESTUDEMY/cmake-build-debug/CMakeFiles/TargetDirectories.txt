@@ -1,0 +1,3 @@
+C:/Dev/CPP/TESTUDEMY/cmake-build-debug/CMakeFiles/TESTUDEMY.dir
+C:/Dev/CPP/TESTUDEMY/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev/CPP/TESTUDEMY/cmake-build-debug/CMakeFiles/rebuild_cache.dir
