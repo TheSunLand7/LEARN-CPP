@@ -10,6 +10,7 @@ public:
   };
 
 private:
+  //m_LogLevel esta restringido a los 3 valores de enums, debido al tipo 'Level' asignado.
   Level m_LogLevel = LevelInfo; // Everything should be printed.
 
 public:
