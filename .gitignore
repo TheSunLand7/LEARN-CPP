@@ -1,3 +1,4 @@
 *.metadata
 REGISTROS
 CPP/.vscode
+tasks.json

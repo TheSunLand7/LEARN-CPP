@@ -21,6 +21,7 @@
             ],
             "group": "build"
         },
+        
         {
             "type": "cppbuild",
             "label": "C/C++: g++ compilar archivo activo",
