@@ -47,5 +47,6 @@ int main() {
 	*/
 	Singleton::Get().hello("It works!");
 
+
     std::cin.get(); return 0;
 }
