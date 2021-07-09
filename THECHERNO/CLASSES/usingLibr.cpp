@@ -7,7 +7,7 @@
 //
 #include <iostream>
 
-//USING LIBRARIES:
+//USING LIBRARIES: ESTO SOLO APLICA CON MICROSOFT VISUAL STUDIO.
 
 int main()
 {
