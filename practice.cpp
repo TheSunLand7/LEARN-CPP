@@ -16,7 +16,7 @@ class Enemy {
 class Ninja : public Enemy {
     public:
         void attack() {
-            std::cout << "I am a Ninja, ninja chop! -" << attackPower << std::endl;
+           std::cout << "I am a Ninja, ninja chop! -" << attackPower << std::endl;
         }
 };
 
